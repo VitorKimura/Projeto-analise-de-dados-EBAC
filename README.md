@@ -26,6 +26,6 @@ Acesse o dashboard com os principais insights visuais do projeto:
 ## 📁 Estrutura do Projeto
 
 Projeto_queimadas/
-├── projeto_queimadas.ipynb # Código com a análise de dados
-├── Relatorio_queimadas.pdf # Relatório final em PDF
-└── README.md # Este arquivo
+- projeto_queimadas.ipynb # Código com a análise de dados
+- Relatorio_queimadas.pdf # Relatório final em PDF
+- README.md # Este arquivo
